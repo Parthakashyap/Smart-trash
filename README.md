@@ -73,6 +73,8 @@ If multiple trash types are detected **in the same frame**, the system follows t
 | **Book** | 22 | 23 |
 | **Organic Waste** | 24 | 25 |
 
+![Raspberry Pi 5 GPIO Pinout Diagram](https://pinout-ai.s3.eu-west-2.amazonaws.com/raspberry-pi-5-gpio-pinout-diagram.webp)
+
 ---
 
 ## Servo Control Details
