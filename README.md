@@ -223,14 +223,6 @@ sudo systemctl start smart-trash.service
 
 ---
 
-## Future Enhancements (Optional)
-
-- QR code reward system for users  
-- Waste analytics dashboard  
-- Recyclable vs Non-recyclable classification expansion  
-
----
-
 ## License
 
 MIT License  
